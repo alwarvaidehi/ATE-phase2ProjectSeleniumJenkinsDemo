@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T15:04:57 IST" name="Jenkins-SeleniumDemo" finished-at="2023-10-11T15:05:07 IST" duration-ms="10458">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T15:04:57 IST" name="Jenkins-SeleniumDemo" finished-at="2023-10-11T15:05:07 IST" duration-ms="10458">
+      <class name="com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass@710636b0]" started-at="2023-10-11T15:04:57 IST" name="openbrowser" finished-at="2023-10-11T15:05:01 IST" duration-ms="4610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="GetTitle()[pri:49, instance:com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass@710636b0]" started-at="2023-10-11T15:05:01 IST" name="GetTitle" finished-at="2023-10-11T15:05:01 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+        <test-method signature="login()[pri:50, instance:com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass@710636b0]" started-at="2023-10-11T15:05:01 IST" name="login" finished-at="2023-10-11T15:05:05 IST" duration-ms="3792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:51, instance:com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass@710636b0]" started-at="2023-10-11T15:05:05 IST" name="logout" finished-at="2023-10-11T15:05:07 IST" duration-ms="1850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass@710636b0]" started-at="2023-10-11T15:05:07 IST" name="closebrowser" finished-at="2023-10-11T15:05:07 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.app.jenkinsdemo.TestJenkinsDemo$BeforeAfterClass -->
+    </test> <!-- Jenkins-SeleniumDemo -->
+  </suite> <!-- Jenkins-SeleniumDemo -->
+</testng-results>
